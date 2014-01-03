@@ -21,6 +21,7 @@
 		00284AA418767D7600AA441A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00284A8618767D7600AA441A /* UIKit.framework */; };
 		00284AAC18767D7600AA441A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00284AAA18767D7600AA441A /* InfoPlist.strings */; };
 		00284AAE18767D7600AA441A /* ToolBarTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00284AAD18767D7600AA441A /* ToolBarTestTests.m */; };
+		00284AB818767E9C00AA441A /* ㅇㅇ.png in Resources */ = {isa = PBXBuildFile; fileRef = 00284AB718767E9C00AA441A /* ㅇㅇ.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		00284AA918767D7600AA441A /* ToolBarTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ToolBarTestTests-Info.plist"; sourceTree = "<group>"; };
 		00284AAB18767D7600AA441A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00284AAD18767D7600AA441A /* ToolBarTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ToolBarTestTests.m; sourceTree = "<group>"; };
+		00284AB718767E9C00AA441A /* ㅇㅇ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ㅇㅇ.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		00284A8818767D7600AA441A /* ToolBarTest */ = {
 			isa = PBXGroup;
 			children = (
+				00284AB718767E9C00AA441A /* ㅇㅇ.png */,
 				00284A9118767D7600AA441A /* AppDelegate.h */,
 				00284A9218767D7600AA441A /* AppDelegate.m */,
 				00284A9418767D7600AA441A /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				00284A9B18767D7600AA441A /* Images.xcassets in Resources */,
+				00284AB818767E9C00AA441A /* ㅇㅇ.png in Resources */,
 				00284A8D18767D7600AA441A /* InfoPlist.strings in Resources */,
 				00284A9618767D7600AA441A /* Main.storyboard in Resources */,
 			);
